@@ -23,7 +23,7 @@
         <activity
             android:name=".AddActivity"
             android:exported="false"
-            android:label="Add movie" />
+            android:label="Добавить фильм" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
