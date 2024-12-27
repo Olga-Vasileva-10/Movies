@@ -60,6 +60,7 @@ class MainActivity : AppCompatActivity() {
                     filmRepository.delFilms()
                 }
             }
+
             .setNegativeButton("Нет") { dialog, _ ->
                 dialog.dismiss()
             }
