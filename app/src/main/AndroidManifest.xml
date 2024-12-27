@@ -19,7 +19,7 @@
         <activity
             android:name=".SearchActivity"
             android:exported="false"
-            android:label="Search result" />
+            android:label="Результат поиска" />
         <activity
             android:name=".AddActivity"
             android:exported="false"
